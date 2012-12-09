@@ -1,0 +1,44 @@
+24 квіт 2011 23:07:03 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 квіт 2011 23:07:03 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 квіт 2011 23:07:11 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 квіт 2011 23:07:11 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 квіт 2011 23:11:21 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 квіт 2011 23:11:21 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 квіт 2011 23:13:56 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 квіт 2011 23:13:56 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 квіт 2011 23:14:00 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 квіт 2011 23:14:00 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 квіт 2011 23:15:03 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 квіт 2011 23:15:03 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 квіт 2011 23:15:06 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 квіт 2011 23:15:06 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 квіт 2011 23:15:53 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+24 квіт 2011 23:15:53 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+24 квіт 2011 23:15:56 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 квіт 2011 23:15:56 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 квіт 2011 23:27:49 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 квіт 2011 23:27:49 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+24 квіт 2011 23:29:41 org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+24 квіт 2011 23:29:41 org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
